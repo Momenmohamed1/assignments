@@ -33,7 +33,16 @@ div{
     font-weight: 500;
     margin: 10px;
 }
-
+button{
+    width: 3cm;
+    height: 1cm;
+    border-radius: 10px;
+    border: 2px black solid;
+    outline: none;
+    cursor: pointer;
+    background: transparent;
+    text-transform: uppercase;
+}
 
 
 
